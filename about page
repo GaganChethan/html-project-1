@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Modern Frame - About</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <h1>The Modern Frame</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html" class="active">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Our Story</h2>
+        <img src="https://picsum.photos/400/300?random=5" alt="Gallery Interior" class="float-left">
+        <p>Founded in 2010, The Modern Frame has been a hub for contemporary art lovers, showcasing works that inspire and challenge perspectives.</p>
+    </section>
+
+    <section>
+        <h2>Past Exhibitions</h2>
+        <ol>
+            <li>Colors of Life (2015)</li>
+            <li>Urban Dreams (2018)</li>
+            <li>Beyond the Canvas (2021)</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Meet Our Team</h2>
+        <ul>
+            <li>Jane Doe — Curator</li>
+            <li>John Smith — Art Director</li>
+            <li>Emma Lee — Exhibition Manager</li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2025 The Modern Frame. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
