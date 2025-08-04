@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Modern Frame - Gallery</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <h1>The Modern Frame</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gallery.html" class="active">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h2>Our Collection</h2>
+    <div class="gallery-grid">
+        <div class="art-item"><img src="https://picsum.photos/400/300?random=1" alt="Artwork 1"><p>Artwork Title 1</p></div>
+        <div class="art-item"><img src="https://picsum.photos/400/300?random=2" alt="Artwork 2"><p>Artwork Title 2</p></div>
+        <div class="art-item"><img src="https://picsum.photos/400/300?random=3" alt="Artwork 3"><p>Artwork Title 3</p></div>
+        <div class="art-item"><img src="https://picsum.photos/400/300?random=4" alt="Artwork 4"><p>Artwork Title 4</p></div>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2025 The Modern Frame. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
